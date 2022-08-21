@@ -1,4 +1,4 @@
-file = open("input_files/day_02.txt", "r")
+file = open("Python/2015/input_files/day_02.txt", "r")
 
 ribbon = 0
 present_wrap = 0

@@ -1,4 +1,4 @@
-file = open("input_files/day_01.txt", "r")
+file = open("Python/2015/input_files/day_01.txt", "r")
 floor = 0
 pos = 0
 

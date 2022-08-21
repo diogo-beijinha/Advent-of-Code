@@ -1,4 +1,4 @@
-file = open("input_files/day_02.txt", "r")
+file = open("Python/2015/input_files/day_02.txt", "r")
 
 # surface area of the box = 2*l*w + 2*w*h + 2*h*l
 '''
